@@ -1,0 +1,8 @@
+art==6.1
+emailrep==0.0.5
+geocoder==1.38.1
+pefile==2023.2.7
+psutil==5.9.8
+pyhashlookup==1.2.3
+Requests==2.31.0
+vt_py==0.18.0
